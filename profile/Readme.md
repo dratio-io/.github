@@ -16,6 +16,6 @@
 
 Dratio is a next-generation data provider for Business Intelligence and Artificial Intelligence projects. Our platform offers a comprehensive range of data sets to support data science projects related to marketing, consumption, demographics, and income. We believe that data is a powerful resource, and our goal is to make it more accessible and easier to use for businesses, researchers, and organizations.
 
-:point_right: Check out our [Python API](https://github.com/dratio-io/dratio-python)
+:point_right: Check out our [Python API](https://github.com/dratio-io/dratio-python) ([docs](https://dratio.readthedocs.io/))
 
 :point_right: Contact us at [dratio.io/contact/](https://dratio.io/contact/)
